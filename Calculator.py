@@ -39,4 +39,3 @@ elif (l == "multiply"):
 else:
  print("Sorry but there\'s no option for that. pleae make sure you spelled correctly. the choices are : minus, plus, divide of multiply")
 
-*You can use it if want*
