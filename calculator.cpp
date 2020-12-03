@@ -104,6 +104,8 @@ int main()
 	}
     
 
+	int j;
+	cout<<"\n";
+	cin>>j;
     return 0;
 }
-
