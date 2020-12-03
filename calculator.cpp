@@ -104,8 +104,11 @@ int main()
 	}
     
 
-	int j;
+	/*int j;
 	cout<<"\n";
-	cin>>j;
+	cin>>j;*/
+	
+	cout<<"\n";
+	system("pause");
     return 0;
 }
